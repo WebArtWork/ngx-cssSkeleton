@@ -1,4 +1,4 @@
-# • SCSS FOLDER PACK BY WAW •
+# • SCSS FOLDER PACK BY WAW WITH SKELETON FRAMEWORK •
 
 ## I. GET STARTED
 - Import app.scss to your global styles -> ```@import: "scss/waw";```
