@@ -1,0 +1,23 @@
+#html .modal {
+  padding: 20px;
+
+  &-content {
+    background: var(--c-bg-secondary);
+    border-radius: var(--b-radius);
+    border: 1px solid var(--c-border);
+  }
+  .close {
+    top: 13px;
+    right: 15px;
+  }
+  .close:hover {
+    color: var(--c-text-secondary);
+  }
+}
+
+
+#html body._modal-small .modal-content,
+#html .forms_modal .modal-content {
+  max-width: 500px;
+  width: 100%;
+}
